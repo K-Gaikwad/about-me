@@ -5,6 +5,11 @@
 Staff Engineer | Architect | Lead | DGM  
 Specializing in cloud, AI, system design, backend engineering, and scalable solutions.
 
+## 🎓 Education
+
+- **M.Tech in Data Analytics**, BITS Pilani  
+- **B.E. in Computer Engineering**, Pune University
+
 ## 🌱 Current Focus
 
 - **Industry:** Ag Tech — driving innovation in precision agriculture  
